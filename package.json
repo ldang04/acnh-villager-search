@@ -1,5 +1,5 @@
 {
-  "homepage": "http://ldang04.github.io/acnh-villager-search/",
+  "homepage": "https://ldang04.github.io/ACNH-Villager-Search/",
   "name": "acnh-villager-search",
   "version": "0.1.0",
   "private": true,
@@ -20,7 +20,7 @@
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
-    "clean": "rm -rf node_modules/gh-pages/.cache",
+    "clean": "rm -rf node_modules/gh-pages/.cache"
   },
   "eslintConfig": {
     "extends": [
