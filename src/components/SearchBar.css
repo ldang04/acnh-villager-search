@@ -1,0 +1,54 @@
+form {
+    width: 100%;
+}
+
+.form-control {
+    border-radius: 100px;
+    border: none;
+    padding: 1.5em;
+    background-color:#edd7ca;
+    color: #402c0d;
+
+}
+
+.form-control:focus {
+    background-color: #edd7ca;
+}
+
+.form-control::placeholder {
+    color: #402c0d;
+}
+
+.card {
+    border: none;
+}
+
+.options-div{
+    width: 84%;
+    position: absolute;
+    z-index: 1000;
+    margin-left: auto;
+    margin-right: auto;
+    left: 0;
+    right: 0;
+}
+
+ul {
+    list-style-type: none;
+    padding: 0;
+    max-height: 190px;
+    overflow-y: scroll;
+}
+
+li {
+    background-color: #fff7eb;
+    padding: 0.5em;
+    font-size: 0.75em;
+    border: 2px solid #edd7ca;
+    border-top: none;
+    color: #402c0d;
+}
+
+li:hover{
+    background-color: #edd7ca;
+}
