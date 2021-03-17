@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/ldang04/acnh-villager-search/static/css/main.3667da9c.chunk.css",
-    "main.js": "/ldang04/acnh-villager-search/static/js/main.d98bf8ea.chunk.js",
-    "main.js.map": "/ldang04/acnh-villager-search/static/js/main.d98bf8ea.chunk.js.map",
-    "runtime-main.js": "/ldang04/acnh-villager-search/static/js/runtime-main.6c3a4993.js",
-    "runtime-main.js.map": "/ldang04/acnh-villager-search/static/js/runtime-main.6c3a4993.js.map",
-    "static/js/2.3f061cc8.chunk.js": "/ldang04/acnh-villager-search/static/js/2.3f061cc8.chunk.js",
-    "static/js/2.3f061cc8.chunk.js.map": "/ldang04/acnh-villager-search/static/js/2.3f061cc8.chunk.js.map",
-    "index.html": "/ldang04/acnh-villager-search/index.html",
-    "static/css/main.3667da9c.chunk.css.map": "/ldang04/acnh-villager-search/static/css/main.3667da9c.chunk.css.map",
-    "static/js/2.3f061cc8.chunk.js.LICENSE.txt": "/ldang04/acnh-villager-search/static/js/2.3f061cc8.chunk.js.LICENSE.txt"
+    "main.css": "/acnh-villager-search/static/css/main.3667da9c.chunk.css",
+    "main.js": "/acnh-villager-search/static/js/main.d98bf8ea.chunk.js",
+    "main.js.map": "/acnh-villager-search/static/js/main.d98bf8ea.chunk.js.map",
+    "runtime-main.js": "/acnh-villager-search/static/js/runtime-main.8505d55c.js",
+    "runtime-main.js.map": "/acnh-villager-search/static/js/runtime-main.8505d55c.js.map",
+    "static/js/2.3f061cc8.chunk.js": "/acnh-villager-search/static/js/2.3f061cc8.chunk.js",
+    "static/js/2.3f061cc8.chunk.js.map": "/acnh-villager-search/static/js/2.3f061cc8.chunk.js.map",
+    "index.html": "/acnh-villager-search/index.html",
+    "static/css/main.3667da9c.chunk.css.map": "/acnh-villager-search/static/css/main.3667da9c.chunk.css.map",
+    "static/js/2.3f061cc8.chunk.js.LICENSE.txt": "/acnh-villager-search/static/js/2.3f061cc8.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.6c3a4993.js",
+    "static/js/runtime-main.8505d55c.js",
     "static/js/2.3f061cc8.chunk.js",
     "static/css/main.3667da9c.chunk.css",
     "static/js/main.d98bf8ea.chunk.js"
